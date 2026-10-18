@@ -1,0 +1,5 @@
+study_planner.db
+*.csv
+__pycache__/
+*.pyc
+.vscode/
